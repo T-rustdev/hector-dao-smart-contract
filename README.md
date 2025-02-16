@@ -29,7 +29,7 @@ To interact with or develop on top of Hector DAO's contracts:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Myrmekes-a/hector-dao-contracts.git
+   git clone https://github.com/T-rustdev/hector-dao-smart-contract.git
    cd hector-dao-contracts
    ```
 2. **Install Dependencies:** Ensure you have Node.js and npm installed. Then, install the necessary packages:
